@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse unto his royal highness James, Duke of Albany and York: when intending from Scotland. Presented by a loyal hand</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81521</idno>
+            <idno type="STC">Wing D1624</idno>
+            <idno type="STC">ESTC R231404</idno>
+            <idno type="EEBO-CITATION">99897289</idno>
+            <idno type="PROQUEST">99897289</idno>
+            <idno type="VID">137011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse unto his royal highness James, Duke of Albany and York: when intending from Scotland. Presented by a loyal hand</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Caron, and are to be sold by John Calderwood stationer, over against the Main Guard,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137011:1"/>
+            <p>A DISCOURSE Unto His ROYAL HIGHNESS JAMES, DUKE of <hi>ALBANY</hi> and <hi>YORK:</hi> When Intending from SCOTLAND.</p>
+            <p>Preſented by a Loyal Hand</p>
+            <p>EDINBURGH, Printed by <hi>William Caron,</hi> and are to be ſold by <hi>John Calderwood</hi> Stationer, over againſt the Main Guard. <hi>Anno Dom.</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:137011:2"/>
+            <pb n="3" facs="tcp:137011:2"/>
+            <opener>
+               <salute>Moſt High Born, and Gracious Prince,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>ELL may Mortals and the lower World con<g ref="char:EOLhyphen"/>celebrate by, Anthems, ſo Heroick in all things, and Illuſtrious a Potentate; You, Royal Sir, being by Providence and Birth only acquain<g ref="char:EOLhyphen"/>ted with Greatneſs and Virtue: the Lineal Deſcendant of an Hundreth and Nine Mo<g ref="char:EOLhyphen"/>narchs: Thrice Happy and Princely Child of a moſt Glorious Saint, and Incomparable Martyr: the Son and Brother of the beſt of Kings: and Royal Heir apparent of three Dominions, and the <hi>Britiſh</hi> Crown. Which Quaternio and fair Contexture of Glory, evincing Grandour be<g ref="char:EOLhyphen"/>yond example, impregnat with Matchleſs Goodneſs and Here<g ref="char:EOLhyphen"/>ditary by a Right Filial and Fraternal, doth (therefore) farther alſo ſecurely Prognoſticate both Completion and Reward; as the appointment of obliged Fate, and by you deſerved from all your Stars. For, as to the Series and Pompous Line of all thoſe un<g ref="char:EOLhyphen"/>parale'd and Regal Contingencies, the Prerogative certainly and more individual intereſt of an Excellent Merit (intirely, Sir, your own) do moſt powerfully confirm Nature to have been in her Courtiſy egregiouſly Wiſe, and the Diſpoſals of Heaven ad<g ref="char:EOLhyphen"/>mirably juſt; their remaining Engagements muſt therefore in ac<g ref="char:EOLhyphen"/>compliſhment, be uniform: Diadems being for you diſpoſed down in an undoubted Succeſſive Right from your Great Progenitor <hi>Fergus,</hi> and that Royal Centurie of His Sons. The circled Glo<g ref="char:EOLhyphen"/>ries of whoſe Virgin Crown, have thorow Ages been kept inte<g ref="char:EOLhyphen"/>merate, and never toucht by a Forreign Brow. That, Sir, you (<hi>Caledonia's</hi> Chiefeſt Hopes and ſecond Joy) may in an untainted native Honour, together with the happy Inveſture of its Con<g ref="char:EOLhyphen"/>jugate and Siſter Royalties, the more Auguſtly be inornate with that her moſt Ancient and uncontaminate Wreath of Kings. Whereof the Sparkling Gemms and Gold are but the mean and darkeſt things; Diamonds, though therein checkered by richeſt files, being the
+<pb n="4" facs="tcp:137011:3"/>laſt and leaſt of the Conſpicuities of its Honour. Seing that for a Chilead of years again repeated, the Regal Watchmen of our Country, compleating now one Decad, beyond the number of <hi>Argus</hi> Eyes: moſt of them by genius bravely Warlick, and through ſignal Succeſs Renowned Victors: of all the then known Princes of the Earth, they only free, and checking the Power of the Awful <hi>Caeſars:</hi> but with the firſt of Kings, yielding up their Glory and early gathered unto <hi>Shiloh;</hi> They (attended with the millions of their People) being ſoon after the Diſplaying of the Croſs, reckoned among the Honorarie Incomes of the Nations: four ſcore and four Chriſtians; many of whom for Sanctitie admirable: A part, by Choice, perſiſting long in pureſt Celibat and dying Virgins: Some Martyrs; ſeverals Enrolled Saints: the plurality moſt Nurſing Fathers of the Church; Munificent by Pious Ero<g ref="char:EOLhyphen"/>gations, even to Proverb and a Wonder: By Providence there<g ref="char:EOLhyphen"/>fore (in Reward and Peace) enjoying to day the entire Patrimo<g ref="char:EOLhyphen"/>ny, and United Royalties of fiften diſtinct, of old, and coetane<g ref="char:EOLhyphen"/>ous entituled Kings; beſides the <hi>Britiſh</hi> Intereſt in the more late diſcovered Occidental Iſles, and other Lands: Again, reſpectively at the birth of them the Chearful and Teeming Skie alſo bring<g ref="char:EOLhyphen"/>ing forth, to Salute their bleſſed Ingreſs to the World, by an em<g ref="char:EOLhyphen"/>baſſy of Recent Lights: Others, when Babes renunciat Mo<g ref="char:EOLhyphen"/>narchs, and inthronized from the Cradle: eleven from Parent to Child, immediat of one Cognomination: alll of one Family: The improven Dignity of the whole concentred in the Hopes of your Succeſſion, are the more precious, being matchleſs, Jewels of that Unconquered Royal <hi>Apex.</hi> Sir, the Arbitration like wayes of Martial Fortune hath, by Sea and Land equally, confer'd its happy Symbole to advance the Trophies of your Renown. So that had Natures Juſt and Peaceful Titles all been ſilent in the Anthem of your Glorie, yet, through Conduct of auſpicious and ap<g ref="char:EOLhyphen"/>proven Fates, could the Princely Valour of your Highneſs have Scepters, and a Regal Dowrie unto you quicklie propin'd, by the uncontroulable Hand of Conqueſt: You, Mightie Sir, being (per<g ref="char:EOLhyphen"/>ſonallie alſo) Victorious often, and in Arms Famous by many Triumphs, and a Frequent Laurel; While wonderfullie, amidſt a
+<pb n="5" facs="tcp:137011:3"/>thouſand Chances, declared the Friend of Deſtiny, and ſacredly preſerv'd. Moreover, by Character of a twofold Honour, to avouch the Great Regalitie of your Charter, Sir, in you Magna<g ref="char:EOLhyphen"/>nimous and Princely Features, highly argues Pregnancy of Soul, and a true Cognation to all the Heroes. Whence Sphears, Wind, and Flying Cherubs, halt ye in your interrupted Courſes, to admire ſo Glorious a Concatenation and Train of all Royal Perfections: Wherein exemplar and a Mightie Probitie, being matcht with Regal Honour, becomes exceeding beneficial unto Mankind; white in its inſtructive powerful Influences, that great regular and accompliſht <hi>Idea,</hi> Sir, of your moſt Princely and un<g ref="char:EOLhyphen"/>tainted Converſe, ſtands readie to be tranſcribed, as the publick Standard of Moralitie, and a Rectifying Mean for all the World. that ſo the prevailing Integrity of your Highneſs, refining every where, and enamouring men into a ſpeedy and univerſal practice of what is upright, may (in this incurvat State and Senior even<g ref="char:EOLhyphen"/>ing of Mortalitie) regain <hi>Aſtrea</hi> and her Age of Gold. Then full happie Nation, guarded by ſuch ample Power and Skill, whoſe amiable Centre is only Goodneſs: and when, Sir, your great Will ſhall think fit thence to divert their more immediate watch<g ref="char:EOLhyphen"/>full Beams; Yet ſeing a kind of Royal Ubiquitie is due to Prin<g ref="char:EOLhyphen"/>ces, may we then (at leaſt) enjoy by Icon, and not wholly be benighted. Beſeeching therefore, and moſt zealous alway to en<g ref="char:EOLhyphen"/>tertain ſome reſiding Aſpect of your preſence; were it only through a certain Apoſtrophie of its Proxie Rayes, ſtill direct and vertical to our Nation, by a conſtant Solſtice of Princely Favour; gra<g ref="char:EOLhyphen"/>ciouſlie vouchſaf'd as an unitenerant delegat of your ſelf, to make us Happy; and perpetuating from all Eclipſe, the Wearmth and Vigorous Luſters, of the Kingdom its preſent Oecumenick Joy, in all ranks of people, deeply rooted and imparted by the powerful reflexes and Condeſcendencie of your Higneſs viſit, Exorient to our northern Clime: Which, as by the numerous and publick Congratulations of all Eſtates therein ſolemnly welcomed and received, hath moſt dutifully alſo been reſented by this loyal and ancient Metropolis of the Land. Sir, upon your Royal Entrie, the Noble Conſul of the City, (accompa<g ref="char:EOLhyphen"/>nied with all the Honorable Fathers of that Senate, orderly appointed
+<pb n="6" facs="tcp:137011:4"/>in their Robes) having in ſubmiſſive Alacrity and Oblation, joyfully delivered up the Keyes and ſecurity of her Gates, into the Safe Prote<g ref="char:EOLhyphen"/>ction of your Highneſs Princely Hand; as the Tutelar Genius of the Place. Then in moſt coſtlie Viands and the richeſt Blood of Grapes, (much like the <hi>Ambroſial</hi> Repaſts of <hi>Jove,</hi> and Weet of <hi>Nectar,</hi> filld in Gemms) they ſumptuouſly entertaining, Sir, you their High <hi>Ahaſuerus,</hi> and your Royal <hi>Eſther</hi> (as) with the Banquet of a King; profuſely alſo, in purpured Flouds, and a Tide of <hi>Bacchus,</hi> the Conduits overflowing in the ſtreet. Thoſe rich Alluviums again drunk up by the Hilarous Paſſion (Sir, thus ca<g ref="char:EOLhyphen"/>rouſing to your welcome) of an innocent but mighty flame. The innumerous and moſt raging ardent piles being, by contiguity of their Structures, and the Omen of your peaceful Name, gladlie diſarmed and accumulate into one great Roſie Volume of Harmleſs and United Fires plenteouſly, thus as a Thicket of inoffenſive <hi>Aetna's,</hi> flouriſhing thorow all the Lanes; thence by interveen and the crimſon Aids of a powerful artificial Day, diſlodging <hi>Veſper</hi> and the Night. Thus, and by all other Feſtival Indications have, Sir, for You (in profoundeſt Veneration) their Indelible Reſpects, ſignally been atteſted by the Loyal City. With whom no leſs ob<g ref="char:EOLhyphen"/>ſequious at Your intended progreſs hence, Sir, the whole Na<g ref="char:EOLhyphen"/>tion doth, unto Your Royal Highneſs (with bowed Knee, and Loyal Minds) chearfuly at once repay and offer a Debit and moſt willing Tribute of the ſincereſt affections of us all, from Sou<g ref="char:EOLhyphen"/>thern <hi>Tweed,</hi> to the utmoſt <hi>Thule,</hi> knit together as one man. And for Certificat of Obyſance (Sir, at the Call and Whi<g ref="char:EOLhyphen"/>ſpers of Your Imperial Eye) lo, readie Armed by Faithful Hearts, with braveſt Courage, in a Thick and Flaming Cloud of many Thouſands brandiſht Swords, to do You Service: moſt Reſolute alſo, thereby keenly (thorow the Heart and Bowels of Oppoſiti<g ref="char:EOLhyphen"/>on) to cut, for You, the Way and Ingreſs to a Throne; if Af<g ref="char:EOLhyphen"/>fairs did ſo require. But through a more Serene and Happie Juncture, the Divine Goodneſs, great in the Priviledge of Your Birth, Humane Equitie exemplified by the Law of Nati<g ref="char:EOLhyphen"/>ons and Conſtitution of theſe Realms, together alſo the in<g ref="char:EOLhyphen"/>diſpenſible Precepts of Chriſtianitie, ratified by Severe and
+<pb n="7" facs="tcp:137011:4"/>Holy Sanctions have (joyntlie all to remunerate the Innate Ex<g ref="char:EOLhyphen"/>cellencies of Your perſon) Sir, for You moſt powerfullie pre<g ref="char:EOLhyphen"/>ingaged a Triad of Kingdoms, on a moſt Righteous, Amiablie quiet, and Indiſputable Claime. It reſts therefore onlie the peace<g ref="char:EOLhyphen"/>ful Task (as it is the Practiced Dutie) of everie Loyal Subject and all truly Chriſtian (though perhaps otherwiſe, about an Umbrage of a few Opinions and little things, they ſomewhat di<g ref="char:EOLhyphen"/>ſtinguiſh among themſelves; yet altogether unanimous and paſ<g ref="char:EOLhyphen"/>ſionatly cordial to promove all the Hopes and Honour of Your Highneſs) within this moſt Ancient Dominion of that Kingly Hundreth of Your Fathers, by a Ready and Univerſal Harmony of all our Votes, earneſtly to ſupplicat and unceſſantly implore that Almighty Stay of <hi>Jacob</hi> and the GOD of Princes, that Your Highneſs may continually, againſt all the Attempts and Nocive Power of Siniſtrous Fate, be ſecured by Heaven and Crowned with Felicity, in a conſtant Tenor: The proſperous Glory of Your Princely Name, being, in the lowdeſt joyful Call and Voice of Fame, reſounded by <hi>Aquilo,</hi> and the Bounds of the World. Thus ſtill Gilded with Tranquillity, may Perpetuity be Your years; Or when of old (here ſatiate with Durance and Happy Dayes) from out ſuch Royal Duſt, the Soul, journying thorow the Sun, ſhall enter theſe Thrones of Abſolute Fortune, be ever Your Actions encircled with Stars. Yea, thorow out the State and Interval of Separation, may there be allowed ſome bright Locality and more ſelect Orbe to Treaſure up, Sir, Your Aſhes, all uncommon. Which ſure, are alſo then to be illuſtrate from the Applauſive Quire of all the Echo'd Reports of perfected Virtue: by Alliſion (as it were) and the ſporting Accents of their Breath and Song, dextrouſly conflicting, till ſo begetting they do enkindle, into an immarceſſible Radiance, a Live Memorial of Your Name: That ſo, together with the ſumptuous Splendor and Vicinage of the Meridau Day, there the Body being Lodg'd and Trim'd (in a kind of Elementar <hi>Apotheoſis</hi>) chear<g ref="char:EOLhyphen"/>fully may await the Return and Fellowſhip of Your all Divine and better half. In ſum, may all the Matter of Kingly Things be reſcu'd from the Lot of Vulgar Duſt, and ſtill conſpicuous.
+<pb n="8" facs="tcp:137011:5" rendition="simple:additions"/>And ſeing, Sir, the Seraphick conſtitution of Your inextinguiſh<g ref="char:EOLhyphen"/>able heavenly part is alſo fairly Legible and Diſplayed, in that brave and ſweet compoſure of all its corporary outward Vail; at Dive<g ref="char:EOLhyphen"/>ſture therefore, may ſo princely a casket, as the Tranſcript of Your Mind, (whence ennobled by a kind of conſanguinity with Deathleſs and Intellectual Beeings) powerfully be ſecured from the boſom of a humble Grave: While ſuitably enſhryn'd in a Lucide Repoſe among the Orbs. And that the Bounty of this Royal Phaſis, may ever dignifie our Horizon, who are exceeding emu<g ref="char:EOLhyphen"/>lous, by whatſoever imaginable way, ſtill over us to affix You the Deſired Object of our Heart and Eyes; let it then ſplendidly be con<g ref="char:EOLhyphen"/>trived where ſits <hi>Arcturus,</hi> and his neighbouring <hi>Charle-wain:</hi> the Equivocal Notice, and ſomewhat Nominal twin of one and an other of Your Anceſtors, being in the Beauty and number of the ſtars, there effigiat and interwoven, as a goodly fore-obſignature of Your own fairer appointed Conſtellation, to exceed whatſoever Aſtral Hierogliphick doth already ſhine depicted both on the South and Borean ſide of <hi>Phebus</hi> Walls. By all theſe premiſſes ſtands now colligible an Energie and power of Virtue, to make a Monarch, and Immortal; The goodly Efficient then of both, ſeing your High<g ref="char:EOLhyphen"/>neſs doth ſo marveilouſly owne by candid poſſeſſion, and a tenour of Increaſe, we therefore, in the Hopes and Wiſh of each theſe its glo<g ref="char:EOLhyphen"/>rious, and by You already promerited Events, do by ſupernumerary Votes, and a Mighty Loyalty, again, unto all what is ſacred and ir<g ref="char:EOLhyphen"/>reſiſtibly powerful, moſt fervently preſent and reiterat our Devoti<g ref="char:EOLhyphen"/>ons, that Your Highneſs (moſt Royal Sir) having (for a circuit of years long and proſperous, like to a patriarchal Age, or the ſtay of <hi>Neſtor</hi>) in this earthly ſtate, and humane ſchene of affairs, ſtill purely taſted of Felicity in its deepeſt prelibations, and attainable ſymbols, may hereafter, thorow out the whole courſe and line of Beatitude, eternally reap the full and moſt Happy Retributions of an unparalel'd and excellent Virtue. Mean while, may the Benediction and Strength of him, who proſpered <hi>Jacob</hi> in his Journey, moſt graciouſly ſtill at<g ref="char:EOLhyphen"/>tend Your Royal Highneſs, and make You a prevailing prince.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
